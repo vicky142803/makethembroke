@@ -48,12 +48,3 @@ To initiate a credit-draining operation against a competitor:
 5. **Track Progress**: Save your cryptographic tracking token (`MTB-XXXXXXXX`) and check live status on the **Operation Tracker** page.
 
 ---
-
-## 🔒 Admin Console
-
-Access the administrative dashboard at `/admin` to:
-*   Monitor system-wide metrics (Revenue, Targets, and Total Accounts Created).
-*   View the credit burn trendline graph.
-*   Manage active operation states, manually adjust status, and simulate incremental credit burns.
-*   Inspect and downloadbot account lists as CSV format.
-
